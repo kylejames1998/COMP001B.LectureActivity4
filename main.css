@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    background-color: #0c0910;
+    color: #a393bf;
+}
+
+.intro {
+    background-color: gray;
+    border: #a393bf inset 2px;
+    color: azure;
+}
+
+ ul li a {
+    color: #0c0910;
+    background-color: #a393bf;
+ }
+
+ .lists {
+    background-color: #453750;
+    color: white;
+ }
+
+ button {
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+ }
