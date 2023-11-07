@@ -28,3 +28,8 @@ h1 {
     color: white;
     border-radius: 25px;
  }
+
+ p {
+    background-color: gray;
+    color: azure;
+ }
